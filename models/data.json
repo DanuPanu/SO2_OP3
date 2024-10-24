@@ -1,0 +1,80 @@
+[
+  {
+      "id": 1,
+      "koko": "48",
+      "vari": "vihreä",
+      "varastotilanne": 7
+  },
+  {
+      "id": 2,
+      "koko": "42",
+      "vari": "sininen",
+      "varastotilanne": 12
+  },
+  {
+      "id": 3,
+      "koko": "47",
+      "vari": "punainen",
+      "varastotilanne": 12
+  },
+  {
+      "id": 4,
+      "koko": "41",
+      "vari": "punainen",
+      "varastotilanne": 4
+  },
+  {
+      "id": 5,
+      "koko": "46",
+      "vari": "vihreä",
+      "varastotilanne": 9
+  },
+  {
+      "id": 6,
+      "koko": "40",
+      "vari": "musta",
+      "varastotilanne": 13
+  },
+  {
+      "id": 7,
+      "koko": "45",
+      "vari": "punainen",
+      "varastotilanne": 4
+  },
+  {
+      "id": 8,
+      "koko": "39",
+      "vari": "sininen",
+      "varastotilanne": 7
+  },
+  {
+      "id": 9,
+      "koko": "44",
+      "vari": "valkoinen",
+      "varastotilanne": 8
+  },
+  {
+      "id": 10,
+      "koko": "38",
+      "vari": "musta",
+      "varastotilanne": 11
+  },
+  {
+      "id": 11,
+      "koko": "43",
+      "vari": "vihreä",
+      "varastotilanne": 2
+  },
+  {
+      "id": 12,
+      "koko": "37",
+      "vari": "valkoinen",
+      "varastotilanne": 12
+  },
+  {
+      "id": 13,
+      "koko": "36",
+      "vari": "musta",
+      "varastotilanne": 10
+  }
+]
